@@ -1,6 +1,5 @@
 package vn.edu.iuh.fit.authservices.models;
 
-
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

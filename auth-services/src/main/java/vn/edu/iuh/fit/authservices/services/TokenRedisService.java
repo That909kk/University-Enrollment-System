@@ -5,3 +5,4 @@ public interface TokenRedisService {
 
     boolean isInBlackList(String s);
 }
+
